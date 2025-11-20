@@ -1536,6 +1536,279 @@
 
     <!-- Wrapper end -->
 
+
+    <!-- Section Histoire du Diocèse start -->
+    <div class="section panel overflow-hidden">
+        <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-white dark:bg-gray-900">
+            <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                <div class="section-inner">
+                    <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                        <div class="block-header px-2 lg:px-0 text-center">
+                            <h2 class="h4 md:h3 m-0">
+                                <i class="fas fa-history text-primary"></i>
+                                <span>Notre Histoire</span>
+                            </h2>
+                            <p class="fs-6 mt-2 text-gray-600 dark:text-gray-400">65 ans de présence et de service dans le Nord-Kivu</p>
+                        </div>
+                        <div class="block-content">
+                            <div class="row child-cols-12 lg:child-cols-6 g-4 xl:g-6">
+                                <div>
+                                    <div class="panel p-4 bg-gray-25 dark:bg-gray-800 rounded-lg h-100">
+                                        <div class="vstack gap-3">
+
+                                            <h3 class="h4 m-0">Diocèse de Goma</h3>
+                                            <p class="fs-6 m-0 text-gray-600">
+                                                Le diocèse de Goma voit le jour en 1959, juste avant l'indépendance de la RDC, avec Mgr Busimba comme premier évêque. Sous Mgr Ngabu, il traverse les crises tout en continuant d'évangéliser. Mgr Kaboy Ruboneka prend ensuite le flambeau puis, depuis 2019, Mgr Willy Ngumbi poursuit la mission, notamment en période de conflits.
+                                            </p>
+                                            <p class="fs-6 m-0 text-gray-600">
+                                                En 2024, le diocèse célèbre ensemble ses 65 ans d'existence et 50 ans de l'épiscopat de Mgr Ngabu, illustrant son enracinement durable.
+                                            </p>
+
+
+                                            <!-- Section Actions et Œuvres start -->
+                                            <div class="section panel overflow-hidden">
+                                                <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 dark:bg-gray-900">
+                                                    <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                                                        <div class="section-inner">
+                                                            <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                                                                <div class="block-header px-2 lg:px-0 text-center">
+                                                                    <h2 class="h4 md:h3 m-0">
+                                                                        <i class="fas fa-hands-helping text-primary"></i>
+                                                                        <span>Nos Actions et Œuvres</span>
+                                                                    </h2>
+                                                                    <p class="fs-6 mt-2 text-gray-600 dark:text-gray-400">65 ans d'engagement au service de la population de Goma</p>
+                                                                </div>
+                                                                <div class="block-content">
+                                                                    
+
+                                                                    <!-- Chiffres clés -->
+                                                                    <div class="panel mt-4 p-4 bg-primary bg-opacity-5 rounded-lg">
+                                                                        <div class="row child-cols-12 sm:child-cols-4 g-4 text-center">
+                                                                            <div>
+                                                                                <div class="vstack gap-2">
+                                                                                    <i class="fas fa-users text-primary text-xl"></i>
+                                                                                    <h4 class="h3 m-0 text-primary">50,000+</h4>
+                                                                                    <p class="fs-7 m-0 text-gray-600">Personnes aidées annuellement</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>
+                                                                                <div class="vstack gap-2">
+                                                                                    <i class="fas fa-school text-primary text-xl"></i>
+                                                                                    <h4 class="h3 m-0 text-primary">85</h4>
+                                                                                    <p class="fs-7 m-0 text-gray-600">Établissements scolaires</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>
+                                                                                <div class="vstack gap-2">
+                                                                                    <i class="fas fa-clinic-medical text-primary text-xl"></i>
+                                                                                    <h4 class="h3 m-0 text-primary">12</h4>
+                                                                                    <p class="fs-7 m-0 text-gray-600">Structures de santé</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Section Actions et Œuvres end -->
+
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="panel overflow-hidden rounded-lg h-100">
+                                        <figure class="featured-image m-0 ratio ratio-1x1 bg-gray-25 dark:bg-gray-800">
+                                            <img class="media-cover image" src="https://diocesedegoma.net/Templates/img/course/about-1.jpg" alt="Cathédrale Notre-Dame des Pauvres de Goma">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Section Histoire du Diocèse end -->
+
+    <!-- Section Statistiques start -->
+    <div class="section panel overflow-hidden">
+        <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-gray-25 dark:bg-gray-900">
+            <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                <div class="section-inner">
+                    <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                        <div class="block-header px-2 lg:px-0 text-center">
+                            <h2 class="h4 md:h3 m-0">
+                                <i class="fas fa-chart-bar text-primary"></i>
+                                <span>Statistiques Paroissiales</span>
+                            </h2>
+                            <p class="fs-6 mt-2 text-gray-600 dark:text-gray-400">Les activités sacramentelles de notre diocèse</p>
+                        </div>
+                        <div class="block-content">
+                            <div class="row child-cols-12 sm:child-cols-2 lg:child-cols-3 g-4">
+                                <div class="text-center">
+                                    <div class="panel p-4 bg-white dark:bg-gray-800 rounded-lg vstack gap-2">
+                                        <div class="w-80px h-80px bg-primary bg-opacity-10 rounded-circle hstack justify-center items-center mx-auto">
+                                            <i class="fas fa-water text-primary text-2xl"></i>
+                                        </div>
+                                        <h3 class="h2 m-0 text-primary">5K+</h3>
+                                        <h4 class="h5 m-0">Baptêmes</h4>
+                                        <p class="fs-7 m-0 text-gray-600">Par an</p>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <div class="panel p-4 bg-white dark:bg-gray-800 rounded-lg vstack gap-2">
+                                        <div class="w-80px h-80px bg-primary bg-opacity-10 rounded-circle hstack justify-center items-center mx-auto">
+                                            <i class="fas fa-bread-slice text-primary text-2xl"></i>
+                                        </div>
+                                        <h3 class="h2 m-0 text-primary">2K+</h3>
+                                        <h4 class="h5 m-0">Communions</h4>
+                                        <p class="fs-7 m-0 text-gray-600">Premières communions</p>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <div class="panel p-4 bg-white dark:bg-gray-800 rounded-lg vstack gap-2">
+                                        <div class="w-80px h-80px bg-primary bg-opacity-10 rounded-circle hstack justify-center items-center mx-auto">
+                                            <i class="fas fa-dove text-primary text-2xl"></i>
+                                        </div>
+                                        <h3 class="h2 m-0 text-primary">2K+</h3>
+                                        <h4 class="h5 m-0">Confirmations</h4>
+                                        <p class="fs-7 m-0 text-gray-600">Jeunes confirmés</p>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <div class="panel p-4 bg-white dark:bg-gray-800 rounded-lg vstack gap-2">
+                                        <div class="w-80px h-80px bg-primary bg-opacity-10 rounded-circle hstack justify-center items-center mx-auto">
+                                            <i class="fas fa-ring text-primary text-2xl"></i>
+                                        </div>
+                                        <h3 class="h2 m-0 text-primary">1K+</h3>
+                                        <h4 class="h5 m-0">Mariages</h4>
+                                        <p class="fs-7 m-0 text-gray-600">Unions bénies</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Section Statistiques end -->
+
+    <!-- Section Structures start -->
+    <div class="section panel overflow-hidden">
+        <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-white dark:bg-gray-900">
+            <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                <div class="section-inner">
+                    <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                        <div class="block-header px-2 lg:px-0 text-center">
+                            <h2 class="h4 md:h3 m-0">
+                                <i class="fas fa-building text-primary"></i>
+                                <span>Nos Structures</span>
+                            </h2>
+                            <p class="fs-6 mt-2 text-gray-600 dark:text-gray-400">Les différentes institutions du diocèse</p>
+                        </div>
+                        <div class="block-content">
+                            <div class="row child-cols-12 sm:child-cols-3 g-4">
+                                <!-- Structure 1 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-gray-25 dark:bg-gray-800 rounded-lg">
+                                        <div class="post-media panel overflow-hidden">
+                                            <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50">
+                                                <img class="media-cover image" src="https://diocesedegoma.net/fichier/1757266909.jpg" alt="Paroisse Saint-Pierre">
+                                            </figure>
+                                        </div>
+                                        <div class="post-header panel vstack justify-between gap-3 p-4">
+                                            <div class="post-top panel vstack items-start gap-2">
+                                                <h3 class="post-title h5 m-0">Paroisse</h3>
+                                                <p class="fs-7 m-0 text-gray-600">Église - Centre spirituel de la communauté</p>
+                                            </div>
+                                            <a href="paroisses.html" class="link fs-7 fw-bold text-none duration-250 mt-2">
+                                                <span>Lire la Suite</span>
+                                                <i class="icon-1 unicon-chevron-right ms-1"></i>
+                                            </a>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Structure 2 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-gray-25 dark:bg-gray-800 rounded-lg">
+                                        <div class="post-media panel overflow-hidden">
+                                            <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50">
+                                                <img class="media-cover image" src="https://diocesedegoma.net/fichier/1757266868.jpg" alt="Hôtel diocésain">
+                                            </figure>
+                                        </div>
+                                        <div class="post-header panel vstack justify-between gap-3 p-4">
+                                            <div class="post-top panel vstack items-start gap-2">
+                                                <h3 class="post-title h5 m-0">Hôtel</h3>
+                                                <p class="fs-7 m-0 text-gray-600">Guest House - Accueil des visiteurs et pèlerins</p>
+                                            </div>
+                                            <a href="hebergement.html" class="link fs-7 fw-bold text-none duration-250 mt-2">
+                                                <span>Lire la Suite</span>
+                                                <i class="icon-1 unicon-chevron-right ms-1"></i>
+                                            </a>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Structure 3 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-gray-25 dark:bg-gray-800 rounded-lg">
+                                        <div class="post-media panel overflow-hidden">
+                                            <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50">
+                                                <img class="media-cover image" src="https://diocesedegoma.net/fichier/1757266826.jpg" alt="École Saint-Esprit">
+                                            </figure>
+                                        </div>
+                                        <div class="post-header panel vstack justify-between gap-3 p-4">
+                                            <div class="post-top panel vstack items-start gap-2">
+                                                <h3 class="post-title h5 m-0">Saint Esprit</h3>
+                                                <p class="fs-7 m-0 text-gray-600">École Secondaire - Formation des jeunes</p>
+                                            </div>
+                                            <a href="education.html" class="link fs-7 fw-bold text-none duration-250 mt-2">
+                                                <span>Lire la Suite</span>
+                                                <i class="icon-1 unicon-chevron-right ms-1"></i>
+                                            </a>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Structure 4 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-gray-25 dark:bg-gray-800 rounded-lg">
+                                        <div class="post-media panel overflow-hidden">
+                                            <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50">
+                                                <img class="media-cover image" src="https://diocesedegoma.net/fichier/1757266963.png" alt="Hôpital diocésain">
+                                            </figure>
+                                        </div>
+                                        <div class="post-header panel vstack justify-between gap-3 p-4">
+                                            <div class="post-top panel vstack items-start gap-2">
+                                                <h3 class="post-title h5 m-0">Hôpital</h3>
+                                                <p class="fs-7 m-0 text-gray-600">Hôpital - Soins de santé pour tous</p>
+                                            </div>
+                                            <a href="sante.html" class="link fs-7 fw-bold text-none duration-250 mt-2">
+                                                <span>Lire la Suite</span>
+                                                <i class="icon-1 unicon-chevron-right ms-1"></i>
+                                            </a>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Section Structures end -->
+
+
     <!-- Section Équipe start -->
     <div class="section panel overflow-hidden">
         <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-white dark:bg-gray-900">
@@ -1711,6 +1984,362 @@
         </div>
     </div>
     <!-- Section Équipe end -->
+
+    <!-- Section Témoignages start -->
+    <div class="section panel overflow-hidden">
+        <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-gray-25 dark:bg-gray-900">
+            <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                <div class="section-inner">
+                    <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                        <div class="block-header px-2 lg:px-0 text-center">
+                            <h2 class="h4 md:h3 m-0">
+                                <i class="fas fa-comment-dots text-primary"></i>
+                                <span>Témoignages</span>
+                            </h2>
+                            <p class="fs-6 mt-2 text-gray-600 dark:text-gray-400">Ce que disent les fidèles de notre diocèse</p>
+                        </div>
+                        <div class="block-content">
+                            <div class="row child-cols-12 lg:child-cols-3 g-4 xl:g-6">
+                                <!-- Témoignage 1 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-white dark:bg-gray-800 rounded-lg p-4">
+                                        <div class="post-header panel vstack gap-3">
+                                            <div class="hstack gap-3">
+                                                <div class="post-media panel">
+                                                    <figure class="featured-image m-0 ratio ratio-1x1 w-60px rounded-circle overflow-hidden">
+                                                        <img class="media-cover image" src="assets/images/temoignages/temoin-1.jpg" alt="Marie Kanku">
+                                                    </figure>
+                                                </div>
+                                                <div class="vstack gap-1">
+                                                    <h4 class="h5 m-0">Marie Kanku</h4>
+                                                    <p class="fs-7 m-0 text-primary">Fidèle de la paroisse Saint-Pierre</p>
+                                                </div>
+                                            </div>
+                                            <div class="panel p-3 bg-gray-25 dark:bg-gray-700 rounded-lg">
+                                                <div class="hstack gap-2 mb-2">
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                </div>
+                                                <p class="fs-7 m-0 text-gray-600 italic">
+                                                    "Le diocèse de Goma a été un véritable refuge pour ma famille pendant les moments difficiles. L'accompagnement spirituel et l'aide humanitaire nous ont redonné espoir."
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Témoignage 2 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-white dark:bg-gray-800 rounded-lg p-4">
+                                        <div class="post-header panel vstack gap-3">
+                                            <div class="hstack gap-3">
+                                                <div class="post-media panel">
+                                                    <figure class="featured-image m-0 ratio ratio-1x1 w-60px rounded-circle overflow-hidden">
+                                                        <img class="media-cover image" src="assets/images/temoignages/temoin-2.jpg" alt="Pascal Mumbere">
+                                                    </figure>
+                                                </div>
+                                                <div class="vstack gap-1">
+                                                    <h4 class="h5 m-0">Pascal Mumbere</h4>
+                                                    <p class="fs-7 m-0 text-primary">Ancien élève de l'école Saint-Esprit</p>
+                                                </div>
+                                            </div>
+                                            <div class="panel p-3 bg-gray-25 dark:bg-gray-700 rounded-lg">
+                                                <div class="hstack gap-2 mb-2">
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                </div>
+                                                <p class="fs-7 m-0 text-gray-600 italic">
+                                                    "Grâce à l'éducation reçue dans les écoles du diocèse, j'ai pu poursuivre mes études universitaires. La formation humaine et spirituelle m'a construit en tant que personne."
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Témoignage 3 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-white dark:bg-gray-800 rounded-lg p-4">
+                                        <div class="post-header panel vstack gap-3">
+                                            <div class="hstack gap-3">
+                                                <div class="post-media panel">
+                                                    <figure class="featured-image m-0 ratio ratio-1x1 w-60px rounded-circle overflow-hidden">
+                                                        <img class="media-cover image" src="assets/images/temoignages/temoin-3.jpg" alt="Dr Sarah Bahati">
+                                                    </figure>
+                                                </div>
+                                                <div class="vstack gap-1">
+                                                    <h4 class="h5 m-0">Dr Sarah Bahati</h4>
+                                                    <p class="fs-7 m-0 text-primary">Médecin à l'hôpital diocésain</p>
+                                                </div>
+                                            </div>
+                                            <div class="panel p-3 bg-gray-25 dark:bg-gray-700 rounded-lg">
+                                                <div class="hstack gap-2 mb-2">
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                </div>
+                                                <p class="fs-7 m-0 text-gray-600 italic">
+                                                    "Travailler dans les structures de santé du diocèse me permet de servir les plus démunis. Notre mission va au-delà des soins médicaux, c'est un véritable apostolat."
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <!-- Témoignage 4 -->
+                                <div>
+                                    <article class="post type-post panel vstack overflow-hidden h-100 bg-white dark:bg-gray-800 rounded-lg p-4">
+                                        <div class="post-header panel vstack gap-3">
+                                            <div class="hstack gap-3">
+                                                <div class="post-media panel">
+                                                    <figure class="featured-image m-0 ratio ratio-1x1 w-60px rounded-circle overflow-hidden">
+                                                        <img class="media-cover image" src="assets/images/temoignages/temoin-4.jpg" alt="Abbé Jean-Bosco">
+                                                    </figure>
+                                                </div>
+                                                <div class="vstack gap-1">
+                                                    <h4 class="h5 m-0">Abbé Jean-Bosco</h4>
+                                                    <p class="fs-7 m-0 text-primary">Prêtre de la paroisse Sainte-Famille</p>
+                                                </div>
+                                            </div>
+                                            <div class="panel p-3 bg-gray-25 dark:bg-gray-700 rounded-lg">
+                                                <div class="hstack gap-2 mb-2">
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                    <i class="fas fa-star text-warning"></i>
+                                                </div>
+                                                <p class="fs-7 m-0 text-gray-600 italic">
+                                                    "Servir dans ce diocèse est une grâce. Malgré les défis sécuritaires, la foi de notre peuple reste vivante et rayonnante. Chaque jour est un nouveau témoignage de résilience."
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Section Témoignages end -->
+
+    <!-- Section Faire un Don start -->
+    <div class="section panel overflow-hidden">
+        <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-primary text-white">
+            <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                <div class="section-inner">
+                    <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
+                        <div class="block-header px-2 lg:px-0 text-center">
+                            <h2 class="h4 md:h3 m-0">
+                                <i class="fas fa-hand-holding-heart"></i>
+                                <span>Nous Faire un Don</span>
+                            </h2>
+                            <p class="fs-6 mt-2 text-white text-opacity-80">Soutenez les œuvres du Diocèse de Goma</p>
+                        </div>
+                        <div class="block-content">
+                            <div class="row child-cols-12 lg:child-cols-6 g-4 xl:g-6">
+                                <div>
+                                    <div class="panel p-4 bg-white bg-opacity-10 rounded-lg h-100">
+                                        <div class="vstack gap-3">
+
+                                            <h3 class="h4 m-0">Votre soutien fait la différence</h3>
+                                            <p class="fs-6 m-0 text-white text-opacity-90">
+                                                Chaque don contribue directement aux missions du diocèse : soutien aux paroisses, éducation des jeunes, soins de santé, aide humanitaire et évangélisation dans le Nord-Kivu.
+                                            </p>
+                                            <div class="vstack gap-2 mt-2">
+                                                <div class="hstack gap-2">
+                                                    <i class="fas fa-check-circle text-white text-opacity-90"></i>
+                                                    <span class="fs-7 text-white text-opacity-90">100% des dons sont utilisés pour les œuvres</span>
+                                                </div>
+                                                <div class="hstack gap-2">
+                                                    <i class="fas fa-check-circle text-white text-opacity-90"></i>
+                                                    <span class="fs-7 text-white text-opacity-90">Reçu fiscal délivré</span>
+                                                </div>
+                                                <div class="hstack gap-2">
+                                                    <i class="fas fa-check-circle text-white text-opacity-90"></i>
+                                                    <span class="fs-7 text-white text-opacity-90">Transparence totale</span>
+                                                </div>
+                                            </div>
+
+
+                                            <!-- Section Faire un Don (Version Montants) start -->
+                                            <div class="section panel overflow-hidden">
+                                                <div class="section-outer panel py-4 md:py-6 lg:py-8 xl:py-9 bg-primary text-white">
+                                                    <div class="container max-w-2xl p-0 sm:px-2 lg:px-4 xl:px-0">
+                                                        <div class="section-inner">
+                                                            <div>
+
+
+
+                                                                <div class="block-content">
+                                                                    <!-- Montants prédéfinis -->
+                                                                    <div class="panel p-4 bg-white bg-opacity-10 rounded-lg">
+                                                                        <h4 class="h5 text-center mb-4">Montants de dons suggérés</h4>
+                                                                        <div class="row child-cols-12 sm:child-cols-4 g-3">
+                                                                            <div class="text-center">
+                                                                                <button class="btn btn-outline-light w-100 hstack justify-center items-center h-80px">
+                                                                                    <div class="vstack gap-1">
+                                                                                        <span class="h5 m-0">$10</span>
+                                                                                        <small class="fs-7">Nourriture 1 famille</small>
+                                                                                    </div>
+                                                                                </button>
+                                                                            </div>
+                                                                            <div class="text-center">
+                                                                                <button class="btn btn-outline-light w-100 hstack justify-center items-center h-80px">
+                                                                                    <div class="vstack gap-1">
+                                                                                        <span class="h5 m-0">$25</span>
+                                                                                        <small class="fs-7">Médicaments urgents</small>
+                                                                                    </div>
+                                                                                </button>
+                                                                            </div>
+                                                                            <div class="text-center">
+                                                                                <button class="btn btn-outline-light w-100 hstack justify-center items-center h-80px">
+                                                                                    <div class="vstack gap-1">
+                                                                                        <span class="h5 m-0">$50</span>
+                                                                                        <small class="fs-7">Scolarité 1 enfant</small>
+                                                                                    </div>
+                                                                                </button>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <!-- Montant personnalisé -->
+                                                                        <div class="panel mt-4 p-3 bg-white bg-opacity-5 rounded-lg">
+                                                                            <div class="hstack gap-3">
+                                                                                <div class="w-40px h-40px bg-white bg-opacity-20 rounded-circle hstack justify-center items-center">
+                                                                                    <i class="fas fa-edit text-white"></i>
+                                                                                </div>
+                                                                                <div class="vstack gap-2 flex-grow-1">
+                                                                                    <h5 class="h6 m-0">Montant personnalisé</h5>
+                                                                                    <div class="hstack gap-2">
+                                                                                        <input type="number" class="form-control form-control-sm" placeholder="Entrez le montant">
+                                                                                        <select class="form-control form-control-sm w-auto">
+                                                                                            <option>USD</option>
+                                                                                            <option>CDF</option>
+                                                                                            <option>EUR</option>
+                                                                                        </select>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <!-- Bouton de confirmation -->
+                                                                        <div class="text-center mt-4">
+                                                                            <a href="https://don.diocesegoma.cd" target="_blank" class="btn btn-light btn-lg fw-bold px-6">
+                                                                                <i class="fas fa-lock me-2"></i>
+                                                                                Procéder au don sécurisé
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Témoignage impact -->
+                                                                    <div class="panel mt-4 p-4 bg-white bg-opacity-10 rounded-lg text-center">
+                                                                        <div class="hstack gap-3 justify-center">
+                                                                            <i class="fas fa-quote-left text-white text-opacity-60 text-xl"></i>
+                                                                            <p class="fs-6 m-0 text-white text-opacity-90 italic">
+                                                                                "Grâce à votre générosité, 250 enfants ont pu retourner à l'école cette année."
+                                                                            </p>
+                                                                            <i class="fas fa-quote-right text-white text-opacity-60 text-xl"></i>
+                                                                        </div>
+                                                                        <p class="fs-7 mt-2 text-white text-opacity-80">- Équipe Caritas Goma</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Section Faire un Don (Version Montants) end -->
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="panel p-4 bg-white bg-opacity-10 rounded-lg h-100">
+                                        <div class="vstack gap-4">
+                                            <h4 class="h5 m-0">Choisissez votre mode de don</h4>
+
+                                            <!-- Options de don -->
+                                            <div class="vstack gap-3">
+                                                <!-- Transfert bancaire -->
+                                                <div class="panel p-3 bg-white bg-opacity-5 rounded-lg">
+                                                    <div class="hstack gap-3">
+                                                        <div class="w-40px h-40px bg-white bg-opacity-20 rounded-circle hstack justify-center items-center">
+                                                            <i class="fas fa-university text-white"></i>
+                                                        </div>
+                                                        <div class="vstack gap-1 flex-grow-1">
+                                                            <h5 class="h6 m-0">Transfert bancaire</h5>
+                                                            <p class="fs-7 m-0 text-white text-opacity-80">
+                                                                Banque: Rawbank<br>
+                                                                Compte: DIOCESE DE GOMA<br>
+                                                                IBAN: CD08 0022 2010 1234 5678 9012
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Mobile Money -->
+                                                <div class="panel p-3 bg-white bg-opacity-5 rounded-lg">
+                                                    <div class="hstack gap-3">
+                                                        <div class="w-40px h-40px bg-white bg-opacity-20 rounded-circle hstack justify-center items-center">
+                                                            <i class="fas fa-mobile-alt text-white"></i>
+                                                        </div>
+                                                        <div class="vstack gap-1 flex-grow-1">
+                                                            <h5 class="h6 m-0">Mobile Money</h5>
+                                                            <p class="fs-7 m-0 text-white text-opacity-80">
+                                                                Airtel Money: +243 970 000 000<br>
+                                                                Orange Money: +243 970 000 001<br>
+                                                                M-Pesa: +243 970 000 002
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- Dons en nature -->
+                                                <div class="panel p-3 bg-white bg-opacity-5 rounded-lg">
+                                                    <div class="hstack gap-3">
+                                                        <div class="w-40px h-40px bg-white bg-opacity-20 rounded-circle hstack justify-center items-center">
+                                                            <i class="fas fa-box text-white"></i>
+                                                        </div>
+                                                        <div class="vstack gap-1 flex-grow-1">
+                                                            <h5 class="h6 m-0">Dons en nature</h5>
+                                                            <p class="fs-7 m-0 text-white text-opacity-80">
+                                                                Vivres, médicaments, fournitures scolaires<br>
+                                                                Contactez-nous pour plus d'informations
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Bouton de don en ligne -->
+                                            <a href="https://don.diocesegoma.cd" target="_blank" class="btn btn-light w-100 fw-bold">
+                                                <i class="fas fa-donate me-2"></i>
+                                                Faire un don en ligne sécurisé
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Section Faire un Don end -->
 
     <!-- Section Partenaires Carousel start -->
     <div class="section panel overflow-hidden">
